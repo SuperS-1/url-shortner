@@ -8,13 +8,13 @@
 		<version>2.5.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.github.Popov-Dmitry</groupId>
+	<groupId>com.github.SuperS-1</groupId>
 	<artifactId>url-shortener</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>url-shortener</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>16</java.version>
+		<java.version>13</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
